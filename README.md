@@ -1,2 +1,2 @@
-# slavetanushev-tribute-page
+# milcho-manchevski-tribute
 Homework - Tribute page
